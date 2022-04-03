@@ -1,0 +1,80 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 15px;
+}
+
+img {
+    margin-bottom: 30px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #F2F2F2;
+}
+
+p {
+    color: #ffffffbf;
+    margin: 30px 0;
+}
+
+button {
+    background-color: #F2F2F2;
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.flex-container {
+    width: 85%;
+    margin: 10% auto;
+    display: flex;
+    flex-direction: column;
+}
+
+#component-1 {
+    background-color: #E38826;
+    border-radius: 10px 10px 0 0;
+}
+
+#component-2 {
+    background-color: #006970;
+}
+
+#component-3 {
+    background-color: #004241;
+    border-radius: 0 0 10px 10px;
+}
+
+#btn-component-1 {
+    color: #E38826;
+}
+
+#btn-component-2 {
+    color: #006970;
+}
+
+#btn-component-3 {
+    color: #004241;
+}
+
+.component-wrapper {
+    padding: 50px;
+}
+
+@media (min-width: 576px) {
+    .flex-container {
+        flex-direction: row;
+    }
+
+    #component-1 {
+        border-radius: 10px 0 0 10px;
+    }
+
+    #component-3 {
+        border-radius: 0 10px 10px 0;
+    }
+}
