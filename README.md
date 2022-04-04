@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click Here](https://www.frontendmentor.io/solutions/three-column-components-challenge-ryEbZg_75)
+- Live Site URL: [Click Here](https://sakhawat25.github.io/frontendmentor_three_column_challenge/)
 
 ## My process
 
