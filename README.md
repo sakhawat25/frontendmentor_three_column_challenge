@@ -53,5 +53,5 @@ This challenge was not that difficult to tackle, but its a great point to start 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@sakhawat25](https://www.frontendmentor.io/profile/sakhawat25)
+- Twitter - [@sakhee500](https://twitter.com/sakhee500)
